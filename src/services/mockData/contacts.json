@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "status": "active",
+    "tags": ["enterprise", "decision-maker"],
+    "createdAt": "2024-01-15T09:30:00Z",
+    "updatedAt": "2024-01-20T14:22:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "email": "m.chen@innovateplus.com",
+    "phone": "+1 (555) 987-6543",
+    "company": "InnovatePlus Inc",
+    "status": "lead",
+    "tags": ["startup", "tech"],
+    "createdAt": "2024-01-18T11:15:00Z",
+    "updatedAt": "2024-01-22T16:45:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalventures.co",
+    "phone": "+1 (555) 456-7890",
+    "company": "Global Ventures",
+    "status": "active",
+    "tags": ["finance", "large-account"],
+    "createdAt": "2024-01-10T08:20:00Z",
+    "updatedAt": "2024-01-25T10:30:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "David Thompson",
+    "email": "david.thompson@smartsys.net",
+    "phone": "+1 (555) 321-0987",
+    "company": "SmartSystems",
+    "status": "inactive",
+    "tags": ["manufacturing", "legacy"],
+    "createdAt": "2024-01-05T13:45:00Z",
+    "updatedAt": "2024-01-15T09:12:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Wang",
+    "email": "lisa.wang@futuretech.ai",
+    "phone": "+1 (555) 789-0123",
+    "company": "FutureTech AI",
+    "status": "lead",
+    "tags": ["ai", "emerging-tech"],
+    "createdAt": "2024-01-20T15:30:00Z",
+    "updatedAt": "2024-01-23T12:18:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Robert Miller",
+    "email": "robert.miller@pinnaclegroup.com",
+    "phone": "+1 (555) 654-3210",
+    "company": "Pinnacle Group",
+    "status": "active",
+    "tags": ["consulting", "enterprise"],
+    "createdAt": "2024-01-12T10:00:00Z",
+    "updatedAt": "2024-01-28T14:55:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "Jennifer Adams",
+    "email": "j.adams@nexusdev.com",
+    "phone": "+1 (555) 147-2580",
+    "company": "NexusDev",
+    "status": "active",
+    "tags": ["software", "development"],
+    "createdAt": "2024-01-08T12:30:00Z",
+    "updatedAt": "2024-01-26T11:40:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "Alex Cooper",
+    "email": "alex.cooper@cloudstorm.io",
+    "phone": "+1 (555) 852-9630",
+    "company": "CloudStorm",
+    "status": "lead",
+    "tags": ["cloud", "infrastructure"],
+    "createdAt": "2024-01-22T09:15:00Z",
+    "updatedAt": "2024-01-24T16:20:00Z"
+  }
+]

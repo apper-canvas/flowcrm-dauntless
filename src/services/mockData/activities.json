@@ -1,0 +1,132 @@
+[
+  {
+    "Id": 1,
+    "type": "call",
+    "description": "Initial discovery call with Sarah Johnson about enterprise software needs",
+    "timestamp": "2024-01-29T14:30:00Z",
+    "contactId": 1,
+    "metadata": {
+      "duration": "45 minutes",
+      "outcome": "positive"
+    }
+  },
+  {
+    "Id": 2,
+    "type": "email",
+    "description": "Sent proposal document to Emily Rodriguez for cloud migration project",
+    "timestamp": "2024-01-29T10:15:00Z",
+    "contactId": 3,
+    "metadata": {
+      "subject": "Cloud Migration Proposal - Global Ventures",
+      "attachments": 2
+    }
+  },
+  {
+    "Id": 3,
+    "type": "meeting",
+    "description": "Product demo session with Alex Cooper from CloudStorm",
+    "timestamp": "2024-01-28T16:00:00Z",
+    "contactId": 8,
+    "metadata": {
+      "location": "Virtual - Zoom",
+      "attendees": 3
+    }
+  },
+  {
+    "Id": 4,
+    "type": "note",
+    "description": "Updated contact information and added new requirements for Lisa Wang",
+    "timestamp": "2024-01-28T11:45:00Z",
+    "contactId": 5,
+    "metadata": {
+      "category": "contact_update"
+    }
+  },
+  {
+    "Id": 5,
+    "type": "call",
+    "description": "Follow-up call with Michael Chen regarding system integration timeline",
+    "timestamp": "2024-01-27T15:20:00Z",
+    "contactId": 2,
+    "metadata": {
+      "duration": "20 minutes",
+      "outcome": "scheduled_demo"
+    }
+  },
+  {
+    "Id": 6,
+    "type": "email",
+    "description": "Sent pricing information to Robert Miller for training package",
+    "timestamp": "2024-01-27T09:30:00Z",
+    "contactId": 6,
+    "metadata": {
+      "subject": "Training Package Pricing - Pinnacle Group"
+    }
+  },
+  {
+    "Id": 7,
+    "type": "meeting",
+    "description": "Contract negotiation meeting with Jennifer Adams",
+    "timestamp": "2024-01-26T13:00:00Z",
+    "contactId": 7,
+    "metadata": {
+      "location": "Client Office",
+      "attendees": 4,
+      "outcome": "contract_signed"
+    }
+  },
+  {
+    "Id": 8,
+    "type": "call",
+    "description": "Cold call to David Thompson - discussed current challenges",
+    "timestamp": "2024-01-25T16:45:00Z",
+    "contactId": 4,
+    "metadata": {
+      "duration": "15 minutes",
+      "outcome": "follow_up_needed"
+    }
+  },
+  {
+    "Id": 9,
+    "type": "email",
+    "description": "Welcome email sent to new contact Alex Cooper",
+    "timestamp": "2024-01-24T08:00:00Z",
+    "contactId": 8,
+    "metadata": {
+      "subject": "Welcome to our CRM - Next Steps"
+    }
+  },
+  {
+    "Id": 10,
+    "type": "task",
+    "description": "Created follow-up task for Sarah Johnson proposal",
+    "timestamp": "2024-01-23T17:30:00Z",
+    "contactId": 1,
+    "metadata": {
+      "task_priority": "high",
+      "due_date": "2024-02-01"
+    }
+  },
+  {
+    "Id": 11,
+    "type": "deal",
+    "description": "Deal stage updated: Enterprise Software License moved to Proposal",
+    "timestamp": "2024-01-22T12:15:00Z",
+    "contactId": 1,
+    "metadata": {
+      "previous_stage": "qualified",
+      "new_stage": "proposal",
+      "deal_value": 150000
+    }
+  },
+  {
+    "Id": 12,
+    "type": "note",
+    "description": "Added tags and updated company information for Lisa Wang",
+    "timestamp": "2024-01-21T14:20:00Z",
+    "contactId": 5,
+    "metadata": {
+      "tags_added": ["ai", "emerging-tech"]
+    }
+  }
+]
